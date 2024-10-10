@@ -21,6 +21,13 @@ hero:
 
 features:
   - icon:
+src:https://image.mcjpg.org/file/1728565470192_IMG_20241008_230901_086.jpg
+    title: MCC
+    details: 版本：JAVA1.21.x(BE互通)</br>服务器内有粘液科技等科技插件以丰富各位的体验，服务器内已开启死亡不掉落、苦力怕防爆
+link:https://qm.qq.com/q/zROUGLpQxa
+    linkText: 点此加入我们！
+  
+  - icon:
       src: /server_icons/SiO2 SMP.png
     title: 二氧化硅生存服务器
     details: 版本：JAVA 1.21.X（BE互通）</br>本服主打高版本原版生存，支持生电</br>无/tpa,/home,箱子锁,商店插件</br>同时本服没有死亡不掉落，仅有死亡墓碑</br></br>离线可进，有白名单</br>IP进群获取</br>QQ群：902147486
